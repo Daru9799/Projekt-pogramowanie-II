@@ -1,0 +1,4 @@
+12345678902;Marcin;Nowak;12;100.2;hr;
+12345678903;Marek;Szyszka;1;23.7;sprzataczka;
+12345678911;Ola;Dom;11;48.0;hr;
+12345678917;Adam;Nowak;3;50.6;menadzer;
